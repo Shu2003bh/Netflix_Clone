@@ -34,7 +34,7 @@ const Home = () => {
 
           <img src={heroTitle} alt="" className='caption-img' />
 
-          <p> Discovering his ties to a secret ancient order, a young man living in modern Istanbul embarks on a quest to save the city from an immortal enemy.</p>
+          <p> Bob Odenkirk returns as Hutch, an overworked assassin who just needs a break, in this bare-knuckle action-thriller. After deciding to take his family to a tourist town for some fun in the sun, a minor encounter with local bullies yanks the family into the crosshairs of an unhinged, blood-thirsty crime boss who is determined to derail his relaxation.</p>
 
           <div className="hero-btns">
 
