@@ -7,7 +7,7 @@
     font-size: 14px;
     color: #e5e5e5;
     background-image: linear-gradient(180deg, rgba(0,0,0,0.7) 10%,transparent );
-    z-index: 1;;
+    z-index: 10001;;
 }
 .navbar-left{
     display: flex;
@@ -68,6 +68,18 @@
 .nav-dark{
     background : #141414
 } 
+.search-input {
+  background: rgba(0,0,0,0.7);
+  border: 1px solid white;
+  padding: 7px 12px;
+  color: white;
+  margin-left: 10px;
+  border-radius: 4px;
+  backdrop-filter: none !important;
+  filter: none !important;
+  z-index: 10002;
+}
+
 
 @media (max-width:800px){
     .navbar{
